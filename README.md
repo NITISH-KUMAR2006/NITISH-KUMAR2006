@@ -1,4 +1,4 @@
-![Navy Blue Geometric Technology LinkedIn Banner (1)](https://images.app.goo.gl/et6NqhhC5mio8mrz7)
+![Navy Blue Geometric Technology LinkedIn Banner](https://images.app.goo.gl/et6NqhhC5mio8mrz7))
 
 <h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
 <h3 align="center">B.Tech CSE Student | Passionate about Editing, Programming, and web Development</h3>
